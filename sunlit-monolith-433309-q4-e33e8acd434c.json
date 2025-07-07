@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sunlit-monolith-433309-q4",
+  "private_key_id": "e33e8acd434c9ce65c64454c6e0f8602f918cd1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDK95PNp0bOu8uw\nw5rt7GgJ6gY9JKyz57+IwlqkdAU0+U0F6d4cZmBzbV15OhtZIqXUY6gsZzmGAUFM\nBYHhWnrca4kfAopSFOlH4ZQrrZlCID/T1xgAEeQAjM6zb81/3fEjS+8QgeCoRkOO\nFyd9pQwICn56TrhmR0q99jZQ1RVMVnYUKe7H412Ar7+txpcRo2luBWbT8oJKjpfZ\n1FlDhLKUqd/yLLpphsyya8O/HlCw3jACsbvq+oArREXv5m5fv9qro30FiVzHgJMf\nCK8N5qY6z1+qH/2Zw0U3lFUQf+75okG0hvf6WBN+YLr4n5VJcciBJhbpcourZt2i\nY35kMSh1AgMBAAECggEAB3aEgQSUUjAuDG0Y0oRFjA3GlnN1hTTxgjwRPKhGc7zx\n89R2Vgl+pOfhzr4P+N5RBib27VELWK3Nope2P5zF1TqAA3uireN2c23sNpHux3Nr\nnWS0jXYa8dk7lXX4Mqosvm1BmFQKOG3C+KPJ0DEkKNyH64Pe/GXFLghyVVUMcC7R\n5XXBFpeU3jSOyBn7Rjz43+jVtW3cU6eW1+p9xP+lMIyij1DTqOGrvLN7CaOad4Y1\nwfp43mcHKro4wWqQ3AoZ+Pip/eRRb5CTrxgWcy64+O+/QeCLg207hz1B4g7dJoNq\nlkqs7LdJSAIN+eM2FQgtI4aI3N8UP3KRTXc7gH0qCQKBgQDwr4HPPcyiwVU3rb2P\nXF1Za+S8ro4Op31Fe6qNnz8kSWH4cj3I2Y0COdSWHGCHo9w2XcqQCsm8poLNqECq\ncXHiNug89k0THIKYu69b8hpJUP3px3WJruxCWFPszdKm8GXNOmIzGiemIt/8jnTk\nSH6Kcy9WQqOWUoV6f5bZkquU7QKBgQDX4a3vOAEPz7H20B8xfP76sbZB9FuG/yfl\nm+4SV5sHTT0A6/W+yVWJ8mR6kFI2CNG26JOv1UJdZkcx8AXFx1+hfq0tkZRf/WBF\nsMrAooM67YNba3AdZFH04OvHLK/Bec/K2cfKVPIYEpA6sHl3y/23CO0EcIdKR4EI\nMfXyNrg4qQKBgHtBxf51rYhj7do3tW3nZT7YDCm8Uq+agoLE1BD2zoUst2leR9nF\n33qWVxIQsjaEac/FtGiTvcBInY/obEVdF287oy8lC0+QOCkzZJh3oZKOUZoZNU4v\nMHrBdSk+NnSbg+bX0VZOPKPOFFroMWB+557LYiCQu+nNlOGo2X3OqOP5AoGAEiZx\nPzmQLUojBkM9PCXsMhua3TS0NUdijVVs0LH44MZHqLot8RpwTKbKd9uGbfCT4TLw\np8ngSIX+2l35vkUi7yr9WGVy+hcNbw6MHWIMcnnhn2ALDw2OLm5ypE5HgJbDN6TT\nvVki+Y8l/Sk1LTNDY44mj0b+uOoGGTBKI1Eib/ECgYBpp8JomzQDNctOgQxAnIUP\nPvxMMF2UFehkDkSgTPF0b9K6dMMeePKOQIgv9/dfX38miCAWmoBBFiRnu6VcZATM\nljG6tTzo9WdzJUn02w75l0YFYj9pl2yPz7soufAqR9qlrDTolwp8h0VB+ynn+ySi\nO6RxkawN//Ia7czQQ5lV9w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendar-bot@sunlit-monolith-433309-q4.iam.gserviceaccount.com",
+  "client_id": "107763905352818390093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendar-bot%40sunlit-monolith-433309-q4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
